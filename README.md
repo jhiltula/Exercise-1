@@ -21,6 +21,8 @@ Note that your code should replace “Dave Whipp” with the contents of your `n
 
 Upload your changes to github, on your **own** Exercise 1 repository that you cloned using the GitHub Classroom link.
 
-## Juha's morning today
+## Juha's morning today 8.10.2019
 
 I woke up at 6.45am feeling very tired of last night feeding our 3 months old baby.
+
+Hurraa!
