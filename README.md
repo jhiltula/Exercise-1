@@ -20,3 +20,7 @@ I am Dave Whipp and my sleeping enjoyment index is 0.99 out of 1.0!
 Note that your code should replace “Dave Whipp” with the contents of your `name` variable, and “9” with your value stored in the variable `iceCreamRating`, and "0.99" with your value stored in the variable `sleepingIndex`.
 
 Upload your changes to github, on your **own** Exercise 1 repository that you cloned using the GitHub Classroom link.
+
+## Juha's morning today
+
+I woke up at 6.45am feeling very tired of last night feeding our 3 months old baby.
